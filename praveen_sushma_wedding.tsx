@@ -183,7 +183,7 @@ const WEDDING_DATA = {
 
   couple: {
     groom: {
-      portrait: '/Praveen-Sushma/photos/Groom.png',
+      portrait: '/photos/Groom.png',
       fallbackPortrait:
         'https://images.unsplash.com/photo-1610173827043-9db50e0d8ef9?auto=format&fit=crop&w=600&q=80',
       hi: {
@@ -202,7 +202,7 @@ const WEDDING_DATA = {
       },
     },
     bride: {
-      portrait: '/Praveen-Sushma/photos/Bride.png',
+      portrait: '/photos/Bride.png',
       fallbackPortrait:
         'https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=600&q=80',
       hi: {
@@ -224,22 +224,22 @@ const WEDDING_DATA = {
 
   gallery: [
     {
-      url: '/Praveen-Sushma/photos/1.jpg',
+      url: '/photos/1.jpg',
       captionHi: 'शुभ परिणय',
       captionEn: 'Sacred Union',
     },
     {
-      url: '/Praveen-Sushma/photos/2.jpg',
+      url: '/photos/2.jpg',
       captionHi: 'पावन बंधन',
       captionEn: 'Royal Traditions',
     },
     {
-      url: '/Praveen-Sushma/photos/3.jpg',
+      url: 'https://www.google.com/imgres?q=groom%20and%20bride%20images%20ai%20generated&imgurl=https%3A%2F%2Fmedia.easy-peasy.ai%2F0474371c-580a-4702-a75c-678dcfab7cb7%2Fe479de11-4c4e-46c6-a68b-624f8e798d76_medium.webp&imgrefurl=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Findian-bride-groom-wedding-vows-diverse-guests-decorations&docid=wKiYG_I6uaYSLM&tbnid=5oa2fGu6xMv-iM&vet=12ahUKEwj5wsGyjKaYAxWLzDgGHckFJBAQnPAOegUIkAEQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwj5wsGyjKaYAxWLzDgGHckFJBAQnPAOegUIkAEQAA',
       captionHi: 'मंगल उत्सव',
       captionEn: 'Festive Joy',
     },
     {
-      url: '/Praveen-Sushma/photos/4.jpg',
+      url: '/photos/4.jpg',
       captionHi: 'अटूट स्नेह',
       captionEn: 'Forever Together',
     },
