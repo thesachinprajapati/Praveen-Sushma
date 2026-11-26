@@ -234,7 +234,7 @@ const WEDDING_DATA = {
       captionEn: 'Royal Traditions',
     },
     {
-      url: 'https://www.google.com/imgres?q=groom%20and%20bride%20images%20ai%20generated&imgurl=https%3A%2F%2Fmedia.easy-peasy.ai%2F0474371c-580a-4702-a75c-678dcfab7cb7%2Fe479de11-4c4e-46c6-a68b-624f8e798d76_medium.webp&imgrefurl=https%3A%2F%2Feasy-peasy.ai%2Fai-image-generator%2Fimages%2Findian-bride-groom-wedding-vows-diverse-guests-decorations&docid=wKiYG_I6uaYSLM&tbnid=5oa2fGu6xMv-iM&vet=12ahUKEwj5wsGyjKaYAxWLzDgGHckFJBAQnPAOegUIkAEQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwj5wsGyjKaYAxWLzDgGHckFJBAQnPAOegUIkAEQAA',
+      url: 'k.jpg',
       captionHi: 'मंगल उत्सव',
       captionEn: 'Festive Joy',
     },
