@@ -25,6 +25,8 @@ import {
   Thermometer,
 } from 'lucide-react';
 
+const PHOTO_BASE = `${import.meta.env.BASE_URL}photos/`;
+
 /* ============================================================================
    SINGLE EDITABLE DATA HUB (Edit all names, dates, photos, links & text here)
    ============================================================================ */
@@ -183,7 +185,7 @@ const WEDDING_DATA = {
 
   couple: {
     groom: {
-      portrait: '/photos/Groom.png',
+      portrait: `${PHOTO_BASE}Groom.png`,
       fallbackPortrait:
         'https://images.unsplash.com/photo-1610173827043-9db50e0d8ef9?auto=format&fit=crop&w=600&q=80',
       hi: {
@@ -202,7 +204,7 @@ const WEDDING_DATA = {
       },
     },
     bride: {
-      portrait: '/photos/Bride.png',
+      portrait: `${PHOTO_BASE}Bride.png`,
       fallbackPortrait:
         'https://images.unsplash.com/photo-1583939003579-730e3918a45a?auto=format&fit=crop&w=600&q=80',
       hi: {
@@ -224,22 +226,22 @@ const WEDDING_DATA = {
 
   gallery: [
     {
-      url: '/photos/1.jpg',
+      url: `${PHOTO_BASE}1.jpg`,
       captionHi: 'शुभ परिणय',
       captionEn: 'Sacred Union',
     },
     {
-      url: '/photos/2.jpg',
+      url: `${PHOTO_BASE}2.jpg`,
       captionHi: 'पावन बंधन',
       captionEn: 'Royal Traditions',
     },
     {
-      url: 'k.jpg',
+      url: `${PHOTO_BASE}3.jpg`,
       captionHi: 'मंगल उत्सव',
       captionEn: 'Festive Joy',
     },
     {
-      url: '/photos/4.jpg',
+      url: `${PHOTO_BASE}4.jpg`,
       captionHi: 'अटूट स्नेह',
       captionEn: 'Forever Together',
     },
